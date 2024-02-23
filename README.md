@@ -2,7 +2,13 @@
 
 The dataset consists of three files containing timeseries entries, an overview of all treatment sessions and an overview of all patients. To reduce the amount of data only a subset of patients has records in the timeseries data. This modified dataset originates from the following paper:
 
-Lin, CJ., Chen, YY., Pan, CF. et al. Dataset supporting blood pressure prediction for the management of chronic hemodialysis. Sci Data 6, 313 (2019). https://doi.org/10.1038/s41597-019-0319-8                                                                                                                                                                                                                                                        
+Lin, CJ., Chen, YY., Pan, CF. et al. Dataset supporting blood pressure prediction for the management of chronic hemodialysis. Sci Data 6, 313 (2019). https://doi.org/10.1038/s41597-019-0319-8                                                                                                                                 
+## Tasks
+To get into a discussion please prepare a short presentation (15min) on the following questions and tasks.
++ What is hemodialysis about?
++ What are challenges patients and doctors are facing in this domain? What is intradialytic hypotension (IDH)?
++ Identify three influencing factors that may be correlated to IDH.
++ Finally perform an exploratory data analysis and investigate the influence of the previously identified factors on IDH using the given dataset.
 
 ## Overview of columns
 The different datasets can by link by `patient_id` and  `treatment_id`. In the treatment overview and patient data columns starting with `min`, `max` and `avg` are computed by calculating the minimum, maximum and average value of the respected column regarding a single treatment or a specific patient. A description of the columns is given in the tables below. Columns starting with `min`, `max`, `avg` are not listed.
