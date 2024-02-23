@@ -4,7 +4,7 @@ The dataset consists of three files containing timeseries entries, an overview o
 
 Lin, CJ., Chen, YY., Pan, CF. et al. Dataset supporting blood pressure prediction for the management of chronic hemodialysis. Sci Data 6, 313 (2019). https://doi.org/10.1038/s41597-019-0319-8                                                                                                                                 
 ## Tasks
-To get into a discussion please prepare a short presentation (15min) on the following questions and tasks.
+To get into a discussion please prepare a short presentation (~15min) on the following questions and tasks.
 + What is hemodialysis about?
 + What are challenges patients and doctors are facing in this domain? What is intradialytic hypotension (IDH)?
 + Identify three influencing factors that may be correlated to IDH.
